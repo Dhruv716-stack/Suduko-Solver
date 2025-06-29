@@ -50,10 +50,5 @@ python app.py
 ```
 Open your web browser and navigate to `http://127.0.0.1:5000` to start playing.
 
-### 📸 Screenshots
-(Add your screenshots here in assets/ folder and embed below)
-![Dark Mode](assets/dark-mode-screenshot.png)
-![Sudoku Gameplay](assets/gameplay-screenshot.png)
-
 ### 💡 Inspiration
 Built to combine logic, design, and fun—perfect for anyone who loves brain games and coding challenges!
