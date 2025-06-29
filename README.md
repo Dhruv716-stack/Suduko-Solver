@@ -31,20 +31,29 @@ A feature-rich **Sudoku Solver Game** built using **Flask, HTML, CSS, JavaScript
 ```bash
 git clone https://github.com/your-username/sudoku-solver-game.git
 cd sudoku-solver-game
+```
+### 2. Create a Virtual Environment (Optional but Recommended)
 
----
-   2. Create a Virtual Environment (Optional but Recommended)
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-   3.  Install Dependencies
-   ```bash
-   pip install -r requirements.txt
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the Application
 
-   4. Run the Application
-   ```bash
-   python app.py
+```bash
+python app.py
+```
+Open your web browser and navigate to `http://127.0.0.1:5000` to start playing.
 
-   5. Open in Browser
-   Visit: http://127.0.0.1:5000
+### 📸 Screenshots
+(Add your screenshots here in assets/ folder and embed below)
+![Dark Mode](assets/dark-mode-screenshot.png)
+![Sudoku Gameplay](assets/gameplay-screenshot.png)
+
+### 💡 Inspiration
+Built to combine logic, design, and fun—perfect for anyone who loves brain games and coding challenges!
